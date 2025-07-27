@@ -2,7 +2,7 @@
 
 ![montra_banner.png](montra_banner.png)
 
-### An expense tracker Flutter Application! 💰
+### An Expense Tracker Flutter Application! 💰
 
 [![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?logo=flutter)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Dart-Language-0175C2?logo=dart)](https://dart.dev/) [![Android](https://img.shields.io/badge/Android-Platform-3DDC84?logo=android)](https://developer.android.com/)
 
